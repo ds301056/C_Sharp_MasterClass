@@ -1,0 +1,2 @@
+top level statement - introduced in c# 9.0 
+allows you to code outside of the main method. 
